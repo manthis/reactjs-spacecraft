@@ -1,0 +1,23 @@
+{
+  "name": "reactjs-spacecraft",
+  "version": "1.0.0",
+  "description": "Small Spacecraft project to demonstrate ReactJS.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/manthis/reactjs-spacecraft.git"
+  },
+  "author": "Maxime AUBURTIN",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/manthis/reactjs-spacecraft/issues"
+  },
+  "homepage": "https://github.com/manthis/reactjs-spacecraft#readme",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}
